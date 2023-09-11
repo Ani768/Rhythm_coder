@@ -14,8 +14,9 @@ Some of its features include:
 - Looping and conditional constructs (For and if-else if-else)
 - Functions with parameters and calls
 
-**To run my project, click [this link](https://replit.com/@AnirudhSivakum2/Rhythmcoder?v=1).**
-##Usage Examples
+**To run my project, click [this link](https://replit.com/@AnirudhSivakum2/Rhythmcoder?v=1).**</br>
+</br>
+## Usage Examples
 
 Note: The text is the input which is further passed through a Lexer, Parser, and Interpreter, which then interprets and produces the output.
 
