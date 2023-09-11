@@ -28,7 +28,7 @@ CHORUS SONG(){
 """
 
 
-#OUTPUT:
+'''OUTPUT:'''
 Hello World! 
 SONG PLAYED IN PERFECT HARMONY!!! 
 ```
@@ -49,7 +49,7 @@ text = """
 }
 """
 
-#OUTPUT:  
+'''OUTPUT:'''
 a is greater than 20 
 SONG PLAYED IN PERFECT HARMONY!!! 
 ```
@@ -71,8 +71,8 @@ CHOR SONG(){
 """
 
 
-#OUTPUT:
-The SONG has slight dissonances here and there, about 2 in total!!!! Prepare for <br/>  trouble and make it double!! 🎵🎵 
+'''OUTPUT:'''
+The SONG has slight dissonances here and there, about 2 in total!!!! Prepare for   trouble and make it double!! 🎵🎵 
 1: DISSONANCE DETECTED!! This is not jazz, do not change the scale mate! 
 Expected: EOF Received: ID At line: 0 
 2: Invalid Song Name – COMPOSITION ERROR Song does not exist 
@@ -88,7 +88,7 @@ CHORUS SONG(){
 }
 """
 
-#OUTPUT:
+'''OUTPUT:'''
 The value of n during iteration 1 is: 0 
 The value of n during iteration 2 is: 4  
 The value of n during iteration 3 is: 8  
@@ -113,12 +113,12 @@ CHORUS SONG(){
 }
 """
 
-#OUTPUT:
-Here's a simple example of a recursive code<br/> 
-24<br/> 
-5040<br/> 
-<br/> 
-SONG PLAYED IN PERFECT HARMONY!!!<br/> 
+'''OUTPUT:'''
+Here's a simple example of a recursive code
+24
+5040
+ 
+SONG PLAYED IN PERFECT HARMONY!!!
 ```
 
  
