@@ -25,12 +25,12 @@ CHORUS SONG(){
     PLAY("Hello World!",);
 }
 """
+
+
+#OUTPUT:
+Hello World! 
+SONG PLAYED IN PERFECT HARMONY!!! 
 ```
-
-**OUTPUT:** <br/> 
-Hello World! <br/> 
-SONG PLAYED IN PERFECT HARMONY!!! <br/> 
-
 **The below code demonstrates the If-Else If-Else construct:**
 ```python
 text = """
@@ -47,11 +47,11 @@ text = """
     }
 }
 """
-```
-**OUTPUT:**  <br/> 
-a is greater than 20  <br/> 
-SONG PLAYED IN PERFECT HARMONY!!! <br/> 
 
+#OUTPUT:  
+a is greater than 20 
+SONG PLAYED IN PERFECT HARMONY!!! 
+```
 **I have used the same code as before to demonstrate error handling:**
 ```python
 text = """
@@ -68,14 +68,14 @@ CHOR SONG(){
     }
 }
 """
+
+
+#OUTPUT:
+The SONG has slight dissonances here and there, about 2 in total!!!! Prepare for <br/>  trouble and make it double!! 🎵🎵 
+1: DISSONANCE DETECTED!! This is not jazz, do not change the scale mate! 
+Expected: EOF Received: ID At line: 0 
+2: Invalid Song Name – COMPOSITION ERROR Song does not exist 
 ```
-
-**OUTPUT:**  <br/> 
-The SONG has slight dissonances here and there, about 2 in total!!!! Prepare for <br/>  trouble and make it double!! 🎵🎵 <br/> 
-1: DISSONANCE DETECTED!! This is not jazz, do not change the scale mate! <br/> 
-Expected: EOF Received: ID At line: 0 <br/> 
-2: Invalid Song Name – COMPOSITION ERROR Song does not exist <br/> 
-
 **The below code demonstrates looping statements:**
 ```python
 text = """
@@ -86,14 +86,14 @@ CHORUS SONG(){
     }
 }
 """
-```
-**OUTPUT:** <br/> 
-The value of n during iteration 1 is: 0 <br/> 
-The value of n during iteration 2 is: 4 <br/> 
-The value of n during iteration 3 is: 8 <br/> 
-The value of n during iteration 4 is: 12 <br/> 
-SONG PLAYED IN PERFECT HARMONY!!! <br/> 
 
+#OUTPUT:
+The value of n during iteration 1 is: 0 
+The value of n during iteration 2 is: 4  
+The value of n during iteration 3 is: 8  
+The value of n during iteration 4 is: 12 
+SONG PLAYED IN PERFECT HARMONY!!!
+```
 
 **The below code demonstrates recursion:**
 ```python
@@ -111,13 +111,13 @@ CHORUS SONG(){
     PLAY(TRACK factorial(7,),"\n",);
 }
 """
-```
-**OUTPUT:**<br/> 
+
+#OUTPUT:
 Here's a simple example of a recursive code<br/> 
 24<br/> 
 5040<br/> 
 <br/> 
 SONG PLAYED IN PERFECT HARMONY!!!<br/> 
-
+```
 
  
