@@ -28,9 +28,11 @@ CHORUS SONG(){
 """
 
 
-'''OUTPUT:'''
+"""
+OUTPUT:
 Hello World! 
-SONG PLAYED IN PERFECT HARMONY!!! 
+SONG PLAYED IN PERFECT HARMONY!!!
+"""
 ```
 **The below code demonstrates the If-Else If-Else construct:**
 ```python
@@ -49,9 +51,11 @@ text = """
 }
 """
 
-'''OUTPUT:'''
+"""
+OUTPUT:
 a is greater than 20 
-SONG PLAYED IN PERFECT HARMONY!!! 
+SONG PLAYED IN PERFECT HARMONY!!!
+"""
 ```
 **I have used the same code as before to demonstrate error handling:**
 ```python
@@ -70,12 +74,13 @@ CHOR SONG(){
 }
 """
 
-
-'''OUTPUT:'''
+"""
+OUTPUT:
 The SONG has slight dissonances here and there, about 2 in total!!!! Prepare for   trouble and make it double!! 🎵🎵 
 1: DISSONANCE DETECTED!! This is not jazz, do not change the scale mate! 
 Expected: EOF Received: ID At line: 0 
-2: Invalid Song Name – COMPOSITION ERROR Song does not exist 
+2: Invalid Song Name – COMPOSITION ERROR Song does not exist
+"""
 ```
 **The below code demonstrates looping statements:**
 ```python
@@ -88,12 +93,14 @@ CHORUS SONG(){
 }
 """
 
-'''OUTPUT:'''
+"""
+OUTPUT:
 The value of n during iteration 1 is: 0 
 The value of n during iteration 2 is: 4  
 The value of n during iteration 3 is: 8  
 The value of n during iteration 4 is: 12 
 SONG PLAYED IN PERFECT HARMONY!!!
+"""
 ```
 
 **The below code demonstrates recursion:**
@@ -113,12 +120,14 @@ CHORUS SONG(){
 }
 """
 
-'''OUTPUT:'''
+"""
+OUTPUT:
 Here's a simple example of a recursive code
 24
 5040
  
 SONG PLAYED IN PERFECT HARMONY!!!
+"""
 ```
 
  
