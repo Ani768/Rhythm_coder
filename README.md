@@ -1,4 +1,4 @@
-  # Rhythmcoder - Anirudh S
+  # Rhythmcoder
           
 
 
@@ -14,7 +14,8 @@ Some of its features include:
 - Looping and conditional constructs (For and if-else if-else)
 - Functions with parameters and calls
 
-## Here are some examples of sample codes and outputs
+**To run my project, click [this link](https://replit.com/@AnirudhSivakum2/Rhythmcoder?v=1).**
+##Usage Examples
 
 Note: The text is the input which is further passed through a Lexer, Parser, and Interpreter, which then interprets and produces the output.
 
@@ -111,12 +112,12 @@ CHORUS SONG(){
 }
 """
 ```
-**OUTPUT**<br/> 
+**OUTPUT:**<br/> 
 Here's a simple example of a recursive code<br/> 
 24<br/> 
 5040<br/> 
 <br/> 
 SONG PLAYED IN PERFECT HARMONY!!!<br/> 
 
-**To run my project, click [this link](https://replit.com/@AnirudhSivakum2/Rhythmcoder?v=1).**
+
  
